@@ -1,7 +1,11 @@
 ### Olá 👋
 
 
+<<<<<<< HEAD
 Mayara
+=======
+teste
+>>>>>>> bc918f813fa80e99a2ce1f87b59d8d4e8b980790
 <!--
 **MayBarbosa/MayBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
